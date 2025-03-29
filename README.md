@@ -68,6 +68,6 @@ First Place Winner 🥇 at JuniorHack 5.0,  competition by the Software Engineer
 <p align = "center">
  
 <a href="linkedin.com/in/tharushi-lakshani-0a9709287"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<a href="https://medium.com/@tharushilakshani81"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
