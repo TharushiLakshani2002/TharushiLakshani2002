@@ -47,21 +47,9 @@ I'm a with a passion for software development, UI/UX design, and project managem
 </p>
 
 
-## 💻 What I'm Working On
-
-FuelPulse - A fuel quota management system with a Spring Boot backend, React front-end, and an Android app for fuel station operators. Includes JWT authentication, Twilio SMS notifications, and Spring Security.
-
-BookHub - An online library website using HTML, CSS, JavaScript, and PHP. Allows users to browse, read, and manage book memberships.
-
-Main.kit - A web project focused on user-friendly interactions and efficient management.
-
-Everland Park - An online reservation system with MySQL database integration.
-
-ProjectFlow - A comprehensive project management web app designed for IT project managers, offering real-time updates, task management, and team collaboration.
-
 ## 🏆 Achievements
 
-First Place Winner 🥇 at JuniorHack 5.0,  competition by the Software Engineering Students' Association, University of Kelaniya. (Team Name: Codex)
+## First Place Winner 🥇 at JuniorHack 5.0,  competition by the Software Engineering Students' Association, University of Kelaniya. (Team Name: Codex)
 
 
 ## 🙋‍♂️ Connect with me:
