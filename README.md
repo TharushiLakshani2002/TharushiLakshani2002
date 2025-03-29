@@ -14,7 +14,6 @@
 <h1 align:"center"> 📖 About Me<h1/>
 
 
-<h3 align:"center">Hi, I am Tharushi Lakshani<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 align:"center">I am an undergraduate student at <a href="https://www.kln.ac.lk/" style="font-weight:bold;">University of Kelaniya<a/>,in Software Engineering Teaching Unit.  <h3/><h3>
 I'm a with a passion for software development, UI/UX design, and project management. My goal is to become a Project Manager, and I enjoy working on diverse projects that enhance my technical and leadership skills.<h3/>
  
 ## 📚 Technical Skills
