@@ -54,20 +54,7 @@ I'm a with a passion for software development, UI/UX design, and project managem
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   
 </p>
- 
- 
-## 🙋‍♂️ Connect with me:
 
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/tharushi-lakshani-0a9709287
-/)
-[<img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nipuninawodani999.medium.com/) 
-</p>
-
-🚀 About Me
-
-I'm a second-year Software Engineering undergraduate at the University of Kelaniya (UOK) with a passion for software development, UI/UX design, and project management. My goal is to become a Project Manager, and I enjoy working on diverse projects that enhance my technical and leadership skills.
 
 💻 What I'm Working On
 
@@ -102,4 +89,13 @@ Sustainable Interaction Design (SID) & Agile UX
 Enhancing automation testing and state diagrams in SVV
 
 Writing and publishing blog articles on LinkedIn
+
+## 🙋‍♂️ Connect with me:
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/tharushi-lakshani-0a9709287
+/)
+[<img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nipuninawodani999.medium.com/) 
+</p>
 
