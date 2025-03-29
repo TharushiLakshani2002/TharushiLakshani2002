@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Tharushi Lakshani
+
 <a href="#"><p align="center" ><img 
  src="https://raw.githubusercontent.com/tausifaman222/shairanshrawat/master/Assests/code.gif" width="100%"/></p></a>
 
@@ -14,7 +14,7 @@ Hi there! 👋 I'm Tharushi Lakshani
 <h1 align:"center"> 📖 About Me<h1/>
 
 
-<h3 align:"center">Hi, I am Nipuni Nawodani Perera<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 align:"center">I am an undergraduate student at <a href="https://www.kln.ac.lk/" style="font-weight:bold;">University of Kelaniya<a/>,in Software Engineering Teaching Unit.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
+<h3 align:"center">Hi, I am Tharushi Lakshani<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 align:"center">I am an undergraduate student at <a href="https://www.kln.ac.lk/" style="font-weight:bold;">University of Kelaniya<a/>,in Software Engineering Teaching Unit.  <h3/><h3>I love to learn new technologies by myself, try them out and give my contribution back to the software community.<h3/>
  
  
  ### 👨‍💻 Programming languages
