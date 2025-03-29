@@ -17,7 +17,7 @@
 <h3 align:"center">Hi, I am Tharushi Lakshani<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h3/><h3 align:"center">I am an undergraduate student at <a href="https://www.kln.ac.lk/" style="font-weight:bold;">University of Kelaniya<a/>,in Software Engineering Teaching Unit.  <h3/><h3>
 I'm a with a passion for software development, UI/UX design, and project management. My goal is to become a Project Manager, and I enjoy working on diverse projects that enhance my technical and leadership skills.<h3/>
  
- 📚 Technical Skills
+## 📚 Technical Skills
  
  ### 👨‍💻 Programming languages
 
@@ -46,7 +46,7 @@ I'm a with a passion for software development, UI/UX design, and project managem
 </p>
 
 
-💻 What I'm Working On
+## 💻 What I'm Working On
 
 FuelPulse - A fuel quota management system with a Spring Boot backend, React front-end, and an Android app for fuel station operators. Includes JWT authentication, Twilio SMS notifications, and Spring Security.
 
@@ -58,7 +58,7 @@ Everland Park - An online reservation system with MySQL database integration.
 
 ProjectFlow - A comprehensive project management web app designed for IT project managers, offering real-time updates, task management, and team collaboration.
 
-🏆 Achievements
+## 🏆 Achievements
 
 First Place Winner 🥇 at JuniorHack 5.0,  competition by the Software Engineering Students' Association, University of Kelaniya. (Team Name: Codex)
 
@@ -67,7 +67,7 @@ First Place Winner 🥇 at JuniorHack 5.0,  competition by the Software Engineer
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
-[<img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
+<a href="linkedin.com/in/tharushi-lakshani-0a9709287"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </p>
 
