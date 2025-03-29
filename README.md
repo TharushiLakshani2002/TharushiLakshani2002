@@ -13,7 +13,7 @@
 
 <h1 align:"center"> 📖 About Me<h1/>
 
-
+<h3>
 I'm a with a passion for software development, UI/UX design, and project management. My goal is to become a Project Manager, and I enjoy working on diverse projects that enhance my technical and leadership skills.<h3/>
  
 ## 📚 Technical Skills
