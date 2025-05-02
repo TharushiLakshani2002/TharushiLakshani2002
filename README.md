@@ -40,7 +40,7 @@ I'm a with a passion for software development, UI/UX design, and project managem
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows%20Studio-008678.svg?logo=Windows&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="InteliJ IDEA" src="https://img.shields.io/badge/InteliJ%20IDEA-0078d7.svg?logo=InteliJ IDEA&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-0078d7.svg?logo=IntelliJIDEA&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   
 </p>
